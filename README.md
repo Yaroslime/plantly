@@ -7,4 +7,4 @@ The app is going to be developed for Windows and MacOS,  using programming langu
 
 It is NO estimated date for final developed version for smartphones, yet.
 
-https://www.figma.com/proto/m4OTrDYCwLpU7Zen86sQkR/Untitled?node-id=1-325&node-type=symbol&t=y2W5PeZ82rFQpfOn-0&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A325
+Prototype: https://www.figma.com/proto/m4OTrDYCwLpU7Zen86sQkR/Untitled?node-id=1-325&node-type=symbol&t=y2W5PeZ82rFQpfOn-0&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A325
